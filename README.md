@@ -11,10 +11,11 @@ Sample:
 Angular component template:
 ```html
 <div [dataTable]="gauge_ChartData" [options]="gauge_ChartOptions" chartType="Gauge" googleChart></div>
-
+```
 index.html
 ```html
 <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-</head>    
+</head>
+```
 
