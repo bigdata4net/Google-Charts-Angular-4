@@ -7,5 +7,6 @@ The google charts project site is https://developers.google.com/chart/
 and this source code depends on the google.visualization.d.ts file in https://github.com/DefinitelyTyped/DefinitelyTyped
 
 Sample:
+```html
 <div [dataTable]="gauge_ChartData" [options]="gauge_ChartOptions" chartType="Gauge" googleChart></div>
 
