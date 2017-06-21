@@ -1,10 +1,10 @@
-# GoogleChartsAngular4
+# Google-Charts-Angular-4
 
-This source code is a directive exculpated google charts JS library. It has been tested against Angular 4. It's supposed to work with Angular 2 as well, but it's not tested yet.
+This source code is a directive encapsulation of google charts JS library. It has been tested against Angular 4. It's supposed to work with Angular 2 as well, but not tested yet.
 
 The google charts project site is https://developers.google.com/chart/
 
-and this source code depends on the google.visualization.d.ts file in https://github.com/DefinitelyTyped/DefinitelyTyped
+and this source code depends on the google.visualization/index.d.ts file in https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/google.visualization/index.d.ts
 
 Sample:
 ```html
